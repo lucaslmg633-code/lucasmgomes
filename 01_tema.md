@@ -48,7 +48,7 @@ Tema delimitado e justificativa.
 - [X] O tema é relevante.
 - [X] O tema é viável.
 - [X] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [X] O tema foi validado pelo professor.
 
 ## Contribuições
 
