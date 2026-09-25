@@ -6,19 +6,19 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[As dificuldades dos idosos no uso de aplicativos de smartphone.]`
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[Quais são as principais dificuldades enfrentadas pelos idosos no uso de aplicativos de smartphone e como elas afetam a sua inclusão digital?]`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- O que se deseja descobrir ou compreender? `[Compreender os obstáculos de aprendizagem, físicos e visuais que os idosos encontram ao utilizar aplicativos móveis no quotidiano.]`
+- Qual é o objeto da pergunta? `[As dificuldades dos idosos no uso de aplicativos de smartphone.]`
+- Qual é o contexto ou recorte? `[O cenário atual de dependência da tecnologia para serviços e tarefas do dia a dia.]`
+- A pergunta pode ser respondida por artigos científicos? `[Sim. Existem diversos estudos na área de gerontologia e tecnologia que analisam a acessibilidade e a usabilidade de aplicativos para o público idoso.]`
+- Por que essa pergunta é relevante? `[Porque o envelhecimento da população exige que as tecnologias sejam acessíveis a todos, garantindo que os idosos não fiquem excluídos dos serviços e da comunicação digital.]`
 
 ## Produto da etapa
 
