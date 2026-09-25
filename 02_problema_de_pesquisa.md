@@ -26,11 +26,11 @@ Pergunta de pesquisa aprovada.
 
 ## Checklist
 
-- [X] Está escrita em forma de pergunta.
-- [X] É clara e objetiva.
-- [X] Está alinhada ao tema.
-- [X] Pode ser respondida por revisão bibliográfica.
-- [X] Não exige experimento que não será realizado.
+- [ ] Está escrita em forma de pergunta.
+- [ ] É clara e objetiva.
+- [ ] Está alinhada ao tema.
+- [ ] Pode ser respondida por revisão bibliográfica.
+- [ ] Não exige experimento que não será realizado.
 
 ## Contribuições
 
