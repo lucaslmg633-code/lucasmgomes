@@ -66,56 +66,56 @@ Página: `[número]`
 
 ## Artigo 2
 
-* Referência completa: `KIM, M.; KIM, B.; PARK, S. Social Support, eHealth Literacy, and mHealth Use in Older Adults. Diabetes Journals / American Diabetes Association, v. 72, 2023.`
-* DOI ou URL: `[doi.org]`
-* Base de origem: `[Google Acadêmico / Diabetes Journals]`
-* Leitor responsável: `[Kelwin Gama de Souza]`
+* Referência completa: OLIVEIRA, V. M. G. de; SILVA, H. S. da. Tecnologias digitais e as pessoas idosas: um estudo sobre o uso de smartphones durante a COVID-19. Revista Estudos Interdisciplinares sobre o Envelhecimento, v. 29, 2024.
+* DOI ou URL: `[https://seer.ufrgs.br/index.php/RevEnvelhecer/article/view/131541]`
+* Base de origem: `[Google Scholar / UFRGS]`
+* Leitor responsável: `[Lucas Matos Gomes]`
 * Data da leitura: `[01/10/2026]`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+`[Como os idosos usaram os smartphones durante a pandemia e quais foram os principais fatores que influenciaram esse uso.]`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`[Analisar o comportamento de idosos frente aos smartphones e identificar os principais desafios enfrentados por eles.]`
 
 ### Método utilizado
 
-`[preencher]`
+`[Revisão integrativa de literatura.]`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`[Estudos recentes sobre o uso de celulares pela terceira idade.]`
 
 ### Principais resultados
 
-`[preencher]`
+`[O estudo mostrou que há barreiras de letramento digital, mas que programas de inclusão ajudam muito a dar autonomia para os idosos usarem o celular.]`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`[Uso apenas de dados de outros estudos anteriores.]`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[Mostra que o problema não é o aparelho em si, mas a falta de apoio e ensino para o uso da tecnologia.]`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[O texto traz bons dados, mas reforça que o idoso precisa de suporte contínuo para aprender.]`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `[Sugere-se um modelo educativo de letramento digital para a pessoa idosa.]`
 
-Página: `[número]`
+Página: `[7]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
