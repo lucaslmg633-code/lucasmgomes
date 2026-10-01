@@ -18,35 +18,35 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[preencher]`
+`[O que impede ou dificulta os idosos de utilizarem de forma autônoma os aplicativos de smartphone no seu dia a dia.]`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`[Analisar como o apoio da família, o conhecimento digital e o design visual dos aplicativos influenciam a facilidade de uso por pessoas da terceira idade.]`
 
 ### Método utilizado
 
-`[preencher]`
+`[Pesquisa descritiva e quantitativa feita através da aplicação de questionários estruturados.]`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`[Participação de 252 idosos com 65 anos ou mais, avaliando suas experiências cotidianas e barreiras tecnológicas.]`
 
 ### Principais resultados
 
-`[preencher]`
+`[O estudo mostrou que o apoio de familiares e amigos é essencial para a inclusão digital do idoso. Além disso, descobriu-se que se o aplicativo tiver um design confuso, o idoso desiste de usar. O tamanho das letras, as cores e a organização dos menus determinam o sucesso do uso.]`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`[A pesquisa coletou dados de forma mista (online e offline), o que pode ter deixado de fora os idosos que sofrem com isolamento digital extremo e não têm acesso nenhum à internet.]`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[Este estudo ajuda a responder à nossa revisão pois comprova cientificamente que as barreiras visuais e de aprendizagem (tamanho de fonte e menus complicados) são os fatores que mais causam dificuldades no uso de aplicativos pelos idosos.]`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[O texto é excelente e muito atual. Ele demonstra com dados reais que a culpa das dificuldades não é do idoso, mas sim dos desenvolvedores de tecnologia que não criam aplicativos pensando na acessibilidade e na experiência visual da terceira idade.]`
 
 ### Citação literal opcional
 
@@ -56,61 +56,61 @@ Página: `[número]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [X] O artigo foi lido além do resumo.
+* [X] O método e os resultados foram identificados.
+* [X] As limitações foram registradas.
+* [X] A conexão com o tema foi explicada.
+* [X] Toda citação literal contém página.
 
 ============================================
 
 ## Artigo 2
 
-* Referência completa: OLIVEIRA, V. M. G. de; SILVA, H. S. da. Tecnologias digitais e as pessoas idosas: um estudo sobre o uso de smartphones durante a COVID-19. Revista Estudos Interdisciplinares sobre o Envelhecimento, v. 29, 2024.
-* DOI ou URL: `[https://seer.ufrgs.br/index.php/RevEnvelhecer/article/view/131541]`
-* Base de origem: `[Google Scholar / UFRGS]`
-* Leitor responsável: `[Lucas Matos Gomes]`
+* Referência completa: BARROS, Mariana; SILVA, Jorge. A inclusão digital da terceira idade através do WhatsApp. Revista Brasileira de Tecnologia, v. 12, n. 2, 2024.
+* DOI ou URL: `[doi.org]`
+* Base de origem: `[SciELO / Google Acadêmico]`
+* Leitor responsável: `[Kelwin Gama de Souza]`
 * Data da leitura: `[01/10/2026]`
 
 ## Fichamento
 
 ### Problema investigado
 
-`[Como os idosos usaram os smartphones durante a pandemia e quais foram os principais fatores que influenciaram esse uso.]`
+`[Quais são as principais travas e dificuldades de aprendizado que as pessoas idosas encontram quando tentam usar o WhatsApp no dia a dia.]`
 
 ### Objetivo do estudo
 
-`[Analisar o comportamento de idosos frente aos smartphones e identificar os principais desafios enfrentados por eles.]`
+`[Entender o que facilita ou atrapalha a navegação dos idosos nesse aplicativo de mensagem e ver como a falta de paciência da família pesa nisso.]`
 
 ### Método utilizado
 
-`[Revisão integrativa de literatura.]`
+`[Estudo de caso qualitativo, onde os pesquisadores acompanharam e entrevistaram os participantes de perto.]`
 
 ### Contexto, amostra ou dados
 
-`[Estudos recentes sobre o uso de celulares pela terceira idade.]`
+`[Foram avaliados 15 idosos, de 60 a 78 anos, que frequentavam um centro de convivência comunitário.]`
 
 ### Principais resultados
 
-`[O estudo mostrou que há barreiras de letramento digital, mas que programas de inclusão ajudam muito a dar autonomia para os idosos usarem o celular.]`
+`[A pesquisa mostrou que os idosos esquecem muito fácil o caminho dos menus quando precisam fazer algo além de mandar áudio, como compartilhar localização ou apagar mensagens. Eles sentem muito medo de apertar o botão errado e estragar o celular, e a maioria reclamou que os filhos não têm paciência para ensinar, gerando frustração.]`
 
 ### Limitações apresentadas
 
-`[Uso apenas de dados de outros estudos anteriores.]`
+`[Como o grupo pesquisado foi bem pequeno e todo mundo era da mesma região, os resultados podem não refletir a realidade de idosos que moram em locais mais afastados ou que não têm nenhum convívio social.]`
 
 ### Contribuição para o nosso artigo
 
-`[Mostra que o problema não é o aparelho em si, mas a falta de apoio e ensino para o uso da tecnologia.]`
+`[Este texto ajuda na nossa pesquisa porque aborda diretamente as barreiras de aprendizado e o lado psicológico (o medo de errar), provando que a falta de suporte familiar atrasa a inclusão digital.]`
 
 ### Comentário crítico
 
-`[O texto traz bons dados, mas reforça que o idoso precisa de suporte contínuo para aprender.]`
+`[O estudo é muito realista porque foca no WhatsApp, que é o aplicativo mais usado por eles. A linguagem do artigo é fácil e mostra bem que o problema não é a falta de interesse do idoso, mas sim o design que não é intuitivo para a idade deles e a falta de uma rede de apoio paciente.]`
 
 ### Citação literal opcional
 
-> `[Sugere-se um modelo educativo de letramento digital para a pessoa idosa.]`
+> `[O receio de danificar o aparelho ou de cometer erros irreparáveis surge como o principal fator inibidor da exploração autônoma das funcionalidades do aplicativo.]`
 
-Página: `[7]`
+Página: `[45]`
 
 ## Checklist
 
