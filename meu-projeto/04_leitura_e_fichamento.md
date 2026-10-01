@@ -8,11 +8,11 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `KIM, M.; KIM, B.; PARK, S. Social Support, eHealth Literacy, and mHealth Use in Older Adults. Diabetes Journals / American Diabetes Association, v. 72, 2023.`
+* DOI ou URL: `[doi.org]`
+* Base de origem: `[Google Acadêmico / Diabetes Journals]`
+* Leitor responsável: `[Kelwin Gama de Souza]`
+* Data da leitura: `[01/10/2026]`
 
 ## Fichamento
 
