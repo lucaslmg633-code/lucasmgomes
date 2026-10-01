@@ -62,7 +62,7 @@ Página: `[número]`
 * [X] A conexão com o tema foi explicada.
 * [X] Toda citação literal contém página.
 
-============================================
+=================================================================
 
 ## Artigo 2
 
@@ -111,6 +111,64 @@ Página: `[número]`
 > `[O receio de danificar o aparelho ou de cometer erros irreparáveis surge como o principal fator inibidor da exploração autônoma das funcionalidades do aplicativo.]`
 
 Página: `[45]`
+
+## Checklist
+
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
+
+=====================================================================
+
+## Artigo 3
+
+* Referência completa: NOGUEIRAK, et al. Uso de smartphone por pessoas idosas no processo de envelhecimento saudável: uma teoria fundamentada nos dados. Revista Latino-Americana de Enfermagem (RLAE), v. 31, e3983, 2023.
+* DOI ou URL: `[https://www.scielo.br/j/rlae/a/CvJBKbkNTTPp6V5TTSMMsLq/]`
+* Base de origem: `[SciELO]`
+* Leitor responsável: `[Lucas Matos Gomes]`
+* Data da leitura: `[01/10/2026]`
+
+## Fichamento
+
+### Problema investigado
+
+`[De que forma os idosos usam o smartphone no dia a dia e quais medos ou facilidades eles encontram nisso.]`
+
+### Objetivo do estudo
+
+`[Entender a experiência de idosos com celulares, mapeando o que facilita e o que dificulta o uso.]`
+
+### Método utilizado
+
+`[Pesquisa qualitativa.]`
+
+### Contexto, amostra ou dados
+
+`[37 participantes idosos entrevistados sobre suas vivências com celulares.]`
+
+### Principais resultados
+
+`[Os idosos gostam da autonomia que o celular traz, mas têm muito medo de golpes virtuais, perda de dados e falta de privacidade, o que acaba fazendo com que eles evitem usar algumas funções.]`
+
+### Limitações apresentadas
+
+`[Focado em um grupo específico, podendo mudar dependendo da região.]`
+
+### Contribuição para o nosso artigo
+
+`[Ajuda a explicar o lado psicológico e o medo de fraudes que afetam a inclusão digital deles.]`
+
+### Comentário crítico
+
+`[É muito útil porque vai além da parte física e mostra o medo que os idosos sentem de errar ou cair em golpes.]`
+
+### Citação literal opcional
+
+> `[Como contribuição negativa, destacamos que golpes virtuais e o medo de exposição excessiva podem levar as pessoas idosas a se retraírem.]`
+
+Página: `[10]`
 
 ## Checklist
 
