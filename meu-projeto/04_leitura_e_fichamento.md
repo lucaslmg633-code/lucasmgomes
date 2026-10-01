@@ -62,47 +62,60 @@ Página: `[número]`
 * [ ] A conexão com o tema foi explicada.
 * [ ] Toda citação literal contém página.
 
+============================================
 
-Identificação do artigo
-Referência completa: KIM, M.; KIM, B.; PARK, S. Social Support, eHealth Literacy, and mHealth Use in Older Adults. Diabetes Journals / American Diabetes Association, v. 72, 2023.
-DOI ou URL: [doi.org]
-Base de origem: [Google Acadêmico / Diabetes Journals]
-Leitor responsável: [Kelwin Gama de Souza]
-Data da leitura: [01/10/2026]
-Fichamento
-Problema investigado
-[preencher]
+## Artigo 2
 
-Objetivo do estudo
-[preencher]
+* Referência completa: `KIM, M.; KIM, B.; PARK, S. Social Support, eHealth Literacy, and mHealth Use in Older Adults. Diabetes Journals / American Diabetes Association, v. 72, 2023.`
+* DOI ou URL: `[doi.org]`
+* Base de origem: `[Google Acadêmico / Diabetes Journals]`
+* Leitor responsável: `[Kelwin Gama de Souza]`
+* Data da leitura: `[01/10/2026]`
 
-Método utilizado
-[preencher]
+## Fichamento
 
-Contexto, amostra ou dados
-[preencher]
+### Problema investigado
 
-Principais resultados
-[preencher]
+`[preencher]`
 
-Limitações apresentadas
-[preencher]
+### Objetivo do estudo
 
-Contribuição para o nosso artigo
-[Explique como este estudo ajuda a responder à pergunta da revisão.]
+`[preencher]`
 
-Comentário crítico
-[Registre forças, fragilidades, concordâncias ou divergências.]
+### Método utilizado
 
-Citação literal opcional
-[trecho exato]
+`[preencher]`
 
-Página: [número]
+### Contexto, amostra ou dados
 
-Checklist
- O artigo foi lido além do resumo.
- O método e os resultados foram identificados.
- As limitações foram registradas.
- A conexão com o tema foi explicada.
- Toda citação literal contém página.
+`[preencher]`
 
+### Principais resultados
+
+`[preencher]`
+
+### Limitações apresentadas
+
+`[preencher]`
+
+### Contribuição para o nosso artigo
+
+`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+
+### Comentário crítico
+
+`[Registre forças, fragilidades, concordâncias ou divergências.]`
+
+### Citação literal opcional
+
+> `[trecho exato]`
+
+Página: `[número]`
+
+## Checklist
+
+* [ ] O artigo foi lido além do resumo.
+* [ ] O método e os resultados foram identificados.
+* [ ] As limitações foram registradas.
+* [ ] A conexão com o tema foi explicada.
+* [ ] Toda citação literal contém página.
