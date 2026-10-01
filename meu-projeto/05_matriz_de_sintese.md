@@ -6,15 +6,14 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `[Barreiras visuais e de design nos aplicativos.]`
+2. `[Fatores psicológicos, medo de golpes e o papel da família.]`
 
 ## Matriz de síntese
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`[Kim et al. (2023); Nogueira et al. (2023)]`|`[Ambos mostram que menus difíceis e letras pequenas fazem o idoso desistir.]`|`[Kim foca nos dados numéricos de usabilidade; Nogueira foca na experiência diária.]`|`[Amostras pequenas ou focadas em regiões específicas.]`|`[Falta avaliar melhor as opções de acessibilidade nativas dos celulares.]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
 
