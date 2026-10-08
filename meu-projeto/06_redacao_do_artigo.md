@@ -26,27 +26,31 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### `[Eixo 1]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`[A primeira grande dificuldade envolve o design dos aplicativos. De acordo com Kim et al (2023), menus confusos e fontes pequenas fazem com que muitos idosos desistam de usar as ferramentas dos celulares. No mesmo sentido, Nogueira et al. (2023) apontam que, embora a tecnologia traga autonomia, a complexidade técnica diária gera barreiras difíceis de vencer sem ajuda. Enquanto Kim et al. usam dados numéricos para medir a usabilidade, Nogueira et al. focam na vivencia do dia a dia, mostrando que o formato atual dos aplicativos muitas vezes afasta o publico mais velho.]`
 
 ### `[Eixo 2]`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`[Além dos problemas visuais, os fatores emocionais pesam bastante na rotina digital dos idosos. Barros e Silva (2024) mostram que o medo de errar, de estragar o celular e a falta de paciência dos familiares ao ensinar geram muita frustração, principalmente no uso de aplicativos de mensagens e redes sociais. da mesma forma, Nogueira et al (2023) destacam que o receio de cair em golpes virtuais e perder a privacidade faz com que os idosos evitem usar o celular. A diferença entre os estudos estão no foco do apoio: Barros e Silva criticam a impaciência dentro de casa, enquanto Nogueira et al. eles são mais destaque ao medo externo de fraudes.]`
 
 ### Síntese crítica
 
-`[Apresente tendências, convergências, divergências e lacunas.]`
+`[A análise dos estudos mostra que a exclusão digital dos idosos não ocorre por falta de vontade deles, mas pela união de barreiras técnicas (telas confusas) com barreiras emocionais (medo de golpes e de errar). Os autores concordam que as interfaces precisam ser mais simples. No entanto nota se em uma das pesquisas sobre programas públicos de ensino digital que ofereçam ajuda fora do ambiente digitral.]`
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+`[O estudo respondeu ao problema ao mostrar que as principais dificuldades dos idosos estão ligadas a falhas de acessibilidade nos aplicativos e ao medo de errar ou sofrer golpes. Os dados indicam que a tecnologia precisa ser redesenhada para a terceira idade. Como limitação, destaca-se o uso de amostras reduzidas em alguns trabalhos, Recomenda-se que futuras pesquisas avaliem o impacto de políticas publicas voltadas ao ensino de tecnologia para idosos.]`
 
 ## Resumo
 
-`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+`[Estes artigos analisou as principais dificuldades dos idosos no uso de aplicativos de celulares e os impactos na inclusão digital. Por meio de revisão bibliografica, o estudo examinou barreiras visuais, de design e fatores psicológicos, como o medo de fraudes e a falta de apoio. Os resultados mostram que interfaces complexas e o receio de errar afastam a terceira idade. Conclui-se que é preciso criar tecnologias mais acessíveis e dar suporte adequado para garantir a inclusão social dos idosos.]`
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`[BARROS, Mariana; SILVA, Jorge. A inclusão digital da terceira idade através do WhatsApp. Revista Brasileira de Tecnologia, v. 12, n. 2, 2024.
+
+KIM, M.; KIM, B.; PARK, S. Social Support, eHealth Literacy, and mHealth Use in Older Adults. Diabetes Journals / American Diabetes Association, v. 72, 2023.
+
+NOGUEIRAK, et al. Uso de smartphone por pessoas idosas no processo de envelhecimento saudável: uma teoria fundamentada nos dados. Revista Latino-Americana de Enfermagem (RLAE), v. 31, e3983, 2023.]`
 
 ## Checklist
 
