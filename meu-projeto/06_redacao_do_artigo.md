@@ -16,7 +16,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Introdução
 
-`[O uso de celulares e smartphones tornou-se irreconhecível no dia a dia. Atualmente, serviços básicos como bancos atendimento médico e comunicação exigem o uso de aplicativos móveis. Contudo, a população idosa frequentemente enfrenta barreiras para acompanhar essa evolução tecnológica. O problema desta pesquisa é descobrir quais são as principais dificuldades que os idosos encontram ao usar esses aplicativos e de que forma isso prejudica a inclusão digital deles.A justificativa baseia-se na necessidade de tornar a tecnologia um pouco mais acessível para garantir autonomia da terceira idade. O objetivo geral é identificar essas barreiras e analisar o impacto na inclusão digital desse grupo.]`
+`[Hoje em dia, a gente usa o celular para quase tudo. Tarefas como pagar uma conta, ir ao médico ou mandar mensagem para a família dependem de aplicativos. O problema é que a turma mais velha sofre muito para conseguir acompanhar essa nossa tecnológica. A nossa duvida principal com este trabalho é entender quais são os maiores obstáculos que os idosos encaram nesses aplicativos e como isso afeta a inclusão deles no mundo digital. A gente escolheu esse tema porque é preciso deixar a tecnologia mais fácil para todo mundo, garantindo que o idoso não fique isolado. O objetivo aqui é mostrar essas barreiras e o impacto que elas causam.]`
 
 ## Metodologia
 
