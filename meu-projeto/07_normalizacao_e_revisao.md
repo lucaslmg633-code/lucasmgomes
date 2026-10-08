@@ -46,7 +46,10 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|
+|`[Introdução]`|`[Texto estava bastamte formais que soavam artificiais.]`|`[Substituímos por uma linguagem mais direta e natural.]`|`[Lucas Matos Gomes]`|
+|`[Revisão dos textos]`|`[Necessidade de ajustar o tamanho do texto para a faixa mínima de palavras.]`|`[Reduzimos os parágrafos para manter entre 600 e 700 palavras totais.]`|`[Lucas Matos Gomes]`|
+
+
 
 
 
