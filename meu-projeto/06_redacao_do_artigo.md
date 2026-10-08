@@ -46,11 +46,11 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Referências
 
-`[BARROS, Mariana; SILVA, Jorge. A inclusão digital da terceira idade através do WhatsApp. Revista Brasileira de Tecnologia, v. 12, n. 2, 2024.
+`[BARROS, Mariana; SILVA, Jorge. A inclusão digital da terceira idade através do WhatsApp. Revista Brasileira de Tecnologia, v. 12, n. 2, 2024.]´
 
 KIM, M.; KIM, B.; PARK, S. Social Support, eHealth Literacy, and mHealth Use in Older Adults. Diabetes Journals / American Diabetes Association, v. 72, 2023.
 
-NOGUEIRAK, et al. Uso de smartphone por pessoas idosas no processo de envelhecimento saudável: uma teoria fundamentada nos dados. Revista Latino-Americana de Enfermagem (RLAE), v. 31, e3983, 2023.]`
+NOGUEIRAK, et al. Uso de smartphone por pessoas idosas no processo de envelhecimento saudável: uma teoria fundamentada nos dados. Revista Latino-Americana de Enfermagem (RLAE), v. 31, e3983, 2023.
 
 ## Checklist
 
