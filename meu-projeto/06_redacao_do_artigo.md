@@ -12,7 +12,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Palavras-chave
 
-`[Idosos]; [Celulares]; [Inclusão digital]`
+`[Idosos]; [Smartphones]; [Inclusão digital]`
 
 ## Introdução
 
