@@ -20,21 +20,21 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Metodologia
 
-`[Nosso estudo foi feito por meio de uma revisão bibliográfica de caráter qualitativo. A busca por artigos cientificos ocorreu em bases acadêmicas, priorizando textos recentes, porém, alguns desses artigos não falam do tema expecifico do titulo. Os critérios selecionaram pesquisas focadas na usabilidade de aplicativos por idosos barreiras de aprendizagem e exclusão digital. A análise dos textos seguiu um roteiro temático, separando os resultados em eixos para comparar o que diferentes autores descobriram.]`
+`[Nosso estudo foi feito por meio de uma revisão bibliográfica. A busca por artigos cientificos ocorreu em bases acadêmicas, priorizando textos recentes, porém, alguns desses artigos não falam do tema expecifico do titulo. Os critérios selecionaram pesquisas focadas na usabilidade de aplicativos por idosos barreiras de aprendizagem e exclusão digital. A análise dos textos seguiu um roteiro temático, separando os resultados em eixos para comparar o que diferentes autores descobriram.]`
 
 ## Revisão da literatura
 
 ### `[Eixo 1]`
 
-`[A primeira grande dificuldade envolve o design dos aplicativos. De acordo com Kim et al (2023), menus confusos e fontes pequenas fazem com que muitos idosos desistam de usar as ferramentas dos celulares. No mesmo sentido, Nogueira et al. (2023) apontam que, embora a tecnologia traga autonomia, a complexidade técnica diária gera barreiras difíceis de vencer sem ajuda. Enquanto Kim et al. usam dados numéricos para medir a usabilidade, Nogueira et al. focam na vivencia do dia a dia, mostrando que o formato atual dos aplicativos muitas vezes afasta o publico mais velho.]`
+`[A primeira grande dificuldade envolve o design dos aplicativos. De acordo com Kim et al (2023), menus confusos e fontes pequenas fazem com que muitos idosos desistam de usar as ferramentas dos celulares. No mesmo sentido, Nogueira et al. (2023) apontam que, embora a tecnologia traga autonomia eles ainda sim se vem com dificuldade. Enquanto Kim et al usam dados numéricos para medir a usabilidade, Nogueira et al. focam na vivencia do dia a dia, mostrando que o formato atual dos aplicativos muitas vezes afasta o publico mais velho.]`
 
 ### `[Eixo 2]`
 
-`[Além dos problemas visuais, os fatores emocionais pesam bastante na rotina digital dos idosos. Barros e Silva (2024) mostram que o medo de errar, de estragar o celular e a falta de paciência dos familiares ao ensinar geram muita frustração, principalmente no uso de aplicativos de mensagens e redes sociais. da mesma forma, Nogueira et al (2023) destacam que o receio de cair em golpes virtuais e perder a privacidade faz com que os idosos evitem usar o celular. A diferença entre os estudos estão no foco do apoio: Barros e Silva criticam a impaciência dentro de casa, enquanto Nogueira et al. eles são mais destaque ao medo externo de fraudes.]`
+`[Além dos problemas visuais, os fatores emocionais pesam bastante na rotina digital dos idosos. Barros e Silva (2024) mostram que o medo de errar, de estragar o celular e a falta de paciência dos familiares ao ensinar geram muita frustração, principalmente no uso de aplicativos de mensagens e redes sociais. da mesma forma, Nogueira et al (2023) destacam que o receio de cair em golpes virtuais e perder a privacidade faz com que os idosos evitem usar o celular. A diferença entre os estudos estão no foco do apoio: Barros e Silva criticam a impaciência dentro de casa, enquanto Nogueira et al. eles são mais destaque ao medo externo.]`
 
 ### Síntese crítica
 
-`[A análise dos estudos mostra que a exclusão digital dos idosos não ocorre por falta de vontade deles, mas pela união de barreiras técnicas (telas confusas) com barreiras emocionais (medo de golpes e de errar). Os autores concordam que as interfaces precisam ser mais simples. No entanto nota se em uma das pesquisas sobre programas públicos de ensino digital que ofereçam ajuda fora do ambiente digitral.]`
+`[A análise dos estudos mostra que a exclusão digital dos idosos não ocorre por falta de vontade deles, mas pela união de barreiras técnicas (telas confusas) com barreiras emocionais (medo de golpes e de errar). Os autores concordam que as interfaces precisam ser mais simples. No entanto nota se em uma das pesquisas sobre programas públicos de ensino digital que ofereçam ajuda fora do ambiente digital.]`
 
 ## Considerações finais
 
@@ -42,7 +42,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Resumo
 
-`[Estes artigos analisou as principais dificuldades dos idosos no uso de aplicativos de celulares e os impactos na inclusão digital. Por meio de revisão bibliografica, o estudo examinou barreiras visuais, de design e fatores psicológicos, como o medo de fraudes e a falta de apoio. Os resultados mostram que interfaces complexas e o receio de errar afastam a terceira idade. Conclui-se que é preciso criar tecnologias mais acessíveis e dar suporte adequado para garantir a inclusão social dos idosos.]`
+`[Estes artigos analisaram as principais dificuldades dos idosos no uso de aplicativos de celulares e os impactos na inclusão digital. Por meio de revisão bibliografica, o estudo examinou barreiras visuais, de design e fatores psicológicos, como o medo de fraudes e a falta de apoio. Os resultados mostram que interfaces complexas e o receio de errar afastam as pessoas idosas. Conclui-se que é preciso criar tecnologias mais acessíveis e dar suporte adequado para garantir a inclusão social dos idosos.]`
 
 ## Referências
 
